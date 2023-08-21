@@ -1,0 +1,5 @@
+MovieLens
+Select * from Movies limit 10;
+Select * from Movies where Title <> "The Matrix" limit 3;
+Select ID, Year From Movies Where Revenue > 100000000;
+$
